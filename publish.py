@@ -2,27 +2,35 @@ import json
 import os
 from datetime import datetime
 
-# 1. 读取“囤货库”
+# 1. 读取“囤货库” (Queue)
 with open('queue.json', 'r', encoding='utf-8') as f:
     queue = json.load(f)
 
-# 检查还有没有存货
 if len(queue) == 0:
-    print("没有存货了！请补货！")
+    print("没有存货了！")
     exit()
 
-# 2. 取出第一篇 (Pop the first item)
-todays_article = queue.pop(0)
+# 2. 取出最新的一篇
+new_article = queue.pop(0)
+new_article['publishDate'] = datetime.now().strftime("%Y-%m-%d") # 打上今天的时间戳
 
-# 给它打上今天的日期戳 (可选，如果你想强制覆盖日期)
-todays_article['publishDate'] = datetime.now().strftime("%Y-%m-%d")
+# 3. 读取“现有的信息流” (Feed)
+# 如果文件不存在（第一次运行），就创建一个空列表
+if os.path.exists('feed.json'):
+    with open('feed.json', 'r', encoding='utf-8') as f:
+        current_feed = json.load(f)
+else:
+    current_feed = []
 
-# 3. 写入“前台文件” (daily.json)
-with open('daily.json', 'w', encoding='utf-8') as f:
-    json.dump(todays_article, f, indent=2, ensure_ascii=False)
+# 4. 【关键步骤】把新文章插到最前面 (Prepend)
+current_feed.insert(0, new_article)
 
-# 4. 更新“囤货库” (把发过的删掉)
+# 5. 保存回 feed.json
+with open('feed.json', 'w', encoding='utf-8') as f:
+    json.dump(current_feed, f, indent=2, ensure_ascii=False)
+
+# 6. 更新囤货库
 with open('queue.json', 'w', encoding='utf-8') as f:
     json.dump(queue, f, indent=2, ensure_ascii=False)
 
-print(f"成功发布: {todays_article['title']}")
+print(f"成功发布并归档: {new_article['title']}")

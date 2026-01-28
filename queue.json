@@ -1,26 +1,200 @@
 [
   {
-    "id": "2026-02-03",
-    "title": "二区训练 (Zone 2)：长寿的引擎",
-    "category": "Training",
-    "summary": "彼得·阿提亚博士力荐：这是提升线粒体功能的最佳训练方式。",
-    "contentMarkdown": "## The Science\n二区训练是指最大心率的 60-70%，或者让你能维持对话但略感吃力的强度。这种强度能最大化脂肪氧化率，并刺激线粒体产生。线粒体功能的下降是衰老和代谢疾病的核心原因，而 Zone 2 是逆转这一过程的“神药”。\n\n## Protocol\n* **频率**：每周 3-4 次。\n* **时长**：每次至少 45 分钟（线粒体适应通常在 45 分钟后才开始显著发生）。\n* **感觉**：你应该能用鼻子呼吸，或者能断断续续地打电话，但不想一直说话。",
-    "coverImageURL": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": "2026-02-04",
-    "title": "肌酸：不只是健身补剂，更是大脑燃料",
-    "category": "Nutrition",
-    "summary": "研究表明肌酸能显著缓解睡眠剥夺后的认知疲劳。",
-    "contentMarkdown": "## The Science\n肌酸 (Creatine) 不仅能给肌肉供能，也能穿过血脑屏障给大脑供能。大脑虽然只占体重的 2%，却消耗了 20% 的能量。多项研究表明，补充肌酸能提升工作记忆、智力测试表现，尤其是在睡眠不足或高脑力负荷的状态下。\n\n## Protocol\n* **剂量**：每天 5 克一水肌酸 (Creatine Monohydrate)。\n* **时机**：任意时间，关键是坚持。\n* **误区**：不会导致脱发（那是一个被误读的早期研究），也不会伤肾（对健康人而言）。",
-    "coverImageURL": "https://images.unsplash.com/photo-1593095948071-874c1f8d208e?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": "2026-02-05",
-    "title": "体温与睡眠：睡前为何要洗热水澡？",
+    "id": "sleep_001",
     "category": "Sleep",
-    "summary": "核心体温需要下降 1°C 才能启动深度睡眠机制。",
-    "contentMarkdown": "## The Science\n睡眠专家 Matthew Walker 解释，这是一个反直觉的现象：睡前洗热水澡/泡脚其实是为了“降温”。热水会让皮肤血管扩张（Vasodilation），把血液从身体核心引流到体表散热。这会导致核心体温迅速下降，从而向大脑发送强烈的“入睡信号”。\n\n## Protocol\n* **操作**：睡前 1-2 小时洗个热水澡，或泡脚 10 分钟。\n* **环境**：卧室温度保持在 18-20°C (65-68°F)，凉爽的房间有助于维持深度睡眠。",
-    "coverImageURL": "https://images.unsplash.com/photo-1516669966557-4171d99616d6?q=80&w=1000&auto=format&fit=crop"
+    "coverImageURL": "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?q=80&w=1000",
+    "title_en": "Morning Sunlight: Calibrating Your Clock",
+    "title_zh": "早晨阳光：你的生物钟校准器",
+    "summary_en": "Viewing sunlight within 30-60 mins of waking is the strongest lever for sleep quality.",
+    "summary_zh": "醒来 30-60 分钟内接触阳光，是调节生物钟和夜间入睡的最强效工具。",
+    "content_en": "## The Science\nNeuroscientist Andrew Huberman explains that viewing bright light early in the day triggers a cortisol peak. This 'wakes up' your body and sets a timer for melatonin secretion ~16 hours later.\n\n## Protocol\n* **Clear sky**: 5 mins.\n* **Cloudy**: 10-20 mins.\n* **Overcast**: 30 mins.\n* **Note**: Don't look through windows; glass filters out the necessary blue light spectrum.",
+    "content_zh": "## 科学原理\n神经科学家 Andrew Huberman 指出，清晨接触强光会触发皮质醇峰值。这不仅能“唤醒”身体，还会启动一个倒计时，确保约 16 小时后分泌褪黑素。\n\n## 执行方案\n* **晴天**: 5 分钟。\n* **多云**: 10-20 分钟。\n* **阴天**: 30 分钟。\n* **注意**: 不要隔着玻璃晒，玻璃会过滤掉关键的蓝光光谱。"
+  },
+  {
+    "id": "sleep_002",
+    "category": "Sleep",
+    "coverImageURL": "https://images.unsplash.com/photo-1515446001037-c1d09e5361ee?q=80&w=1000",
+    "title_en": "The Caffeine Curfew",
+    "title_zh": "咖啡因的“宵禁”时间",
+    "summary_en": "Caffeine has a quarter-life of 12 hours. Drinking it late destroys deep sleep.",
+    "summary_zh": "咖啡因的四分之一衰变期长达 12 小时，午后饮用会摧毁深度睡眠。",
+    "content_en": "## The Science\nCaffeine blocks adenosine receptors (the chemical that makes you sleepy). Even if you can fall asleep, caffeine in your system prevents you from entering restorative deep sleep.\n\n## Protocol\n* **Cutoff**: Stop caffeine intake 8-10 hours before bed (e.g., 2 PM).\n* **Morning**: Delay first cup by 90 mins to allow natural cortisol to clear adenosine.",
+    "content_zh": "## 科学原理\n咖啡因会阻断腺苷受体（让你感到困倦的化学物质）。即使你能睡着，体内的咖啡因也会阻止你进入修复性的深度睡眠。\n\n## 执行方案\n* **截止时间**: 睡前 8-10 小时停止摄入（例如下午 2 点）。\n* **早晨**: 起床后推迟 90 分钟再喝第一杯，让皮质醇自然清除腺苷。"
+  },
+  {
+    "id": "sleep_003",
+    "category": "Sleep",
+    "coverImageURL": "https://images.unsplash.com/photo-1541480601022-2308c0f9c4b0?q=80&w=1000",
+    "title_en": "Temperature Drop for Deep Sleep",
+    "title_zh": "体温下降与深度睡眠",
+    "summary_en": "Your core body temperature must drop by 1-3°F to initiate sleep.",
+    "summary_zh": "核心体温需要下降 1-2°C 才能启动深度睡眠机制。",
+    "content_en": "## The Science\nCooling the body signals the brain to release melatonin. Paradoxically, a hot shower triggers cooling via vasodilation (heat escaping through skin).\n\n## Protocol\n* **Room**: Keep bedroom cool (65-68°F / 18-20°C).\n* **Hack**: Take a hot shower or bath 1 hour before bed to trigger a rebound body temp drop.",
+    "content_zh": "## 科学原理\n身体降温是向大脑发送分泌褪黑素的信号。反直觉的是，热水澡通过血管扩张（热量通过皮肤散发）触发身体核心降温。\n\n## 执行方案\n* **室温**: 保持卧室凉爽 (18-20°C)。\n* **技巧**: 睡前 1 小时洗个热水澡，利用身体的“反弹降温”效应助眠。"
+  },
+  {
+    "id": "nutrition_001",
+    "category": "Nutrition",
+    "coverImageURL": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=1000",
+    "title_en": "Protein Timing & The 30g Rule",
+    "title_zh": "蛋白质时机与 30g 法则",
+    "summary_en": "To trigger muscle protein synthesis (MPS), you need a threshold dose of leucine.",
+    "summary_zh": "要触发肌肉蛋白合成 (MPS)，你需要达到亮氨酸的阈值剂量。",
+    "content_en": "## The Science\nEating small amounts of protein (e.g., 10g) doesn't turn on the muscle-building switch. You need ~3g of leucine, typically found in 30g of animal protein, to trigger mTOR.\n\n## Protocol\n* **Target**: Aim for 30g+ protein at breakfast to start the day in an anabolic state.\n* **Total**: 1g per lb (2.2g per kg) of body weight daily.",
+    "content_zh": "## 科学原理\n少量的蛋白质（如 10g）无法开启肌肉构建的开关。你需要约 3g 的亮氨酸（通常存在于 30g 动物蛋白中）来激活 mTOR 通路。\n\n## 执行方案\n* **目标**: 早餐至少摄入 30g 蛋白质，让身体开启合成代谢状态。\n* **总量**: 每天每磅体重 1g（每公斤 2.2g）蛋白质。"
+  },
+  {
+    "id": "nutrition_002",
+    "category": "Nutrition",
+    "coverImageURL": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=1000",
+    "title_en": "Intermittent Fasting & Autophagy",
+    "title_zh": "间歇性禁食与细胞自噬",
+    "summary_en": "Giving your gut a break allows cells to clean out damaged components.",
+    "summary_zh": "给肠道放假，让细胞有时间清理受损的组件。",
+    "content_en": "## The Science\nAutophagy is the body's 'recycling program.' It kicks in when insulin is low for extended periods, clearing out misfolded proteins and damaged organelles.\n\n## Protocol\n* **16:8**: Fast for 16 hours, eat within 8 hours.\n* **Easy Mode**: Stop eating 3 hours before bed and delay breakfast by 1 hour.",
+    "content_zh": "## 科学原理\n细胞自噬是身体的“回收程序”。当胰岛素长期处于低水平时，它会启动，清理错误折叠的蛋白质和受损的细胞器。\n\n## 执行方案\n* **16:8**: 禁食 16 小时，在 8 小时窗口内进食。\n* **简单模式**: 睡前 3 小时停止进食，并推迟 1 小时吃早餐。"
+  },
+  {
+    "id": "nutrition_003",
+    "category": "Nutrition",
+    "coverImageURL": "https://images.unsplash.com/photo-1546549060-e44b94e339f4?q=80&w=1000",
+    "title_en": "Flattening the Glucose Curve",
+    "title_zh": "压平葡萄糖曲线",
+    "summary_en": "Avoiding massive sugar spikes prevents energy crashes and insulin resistance.",
+    "summary_zh": "避免剧烈的血糖峰值，能防止能量崩溃和胰岛素抵抗。",
+    "content_en": "## The Science\nRapid glucose spikes lead to reactive hypoglycemia (the crash). Chronic spikes lead to glycation (aging) and inflammation.\n\n## Protocol\n* **Order**: Eat veggies (fiber) first, protein second, carbs last.\n* **Hack**: 1 tbsp apple cider vinegar in water before a carb-heavy meal.",
+    "content_zh": "## 科学原理\n快速的血糖飙升会导致反应性低血糖（能量崩溃）。长期的峰值会导致糖基化（衰老）和炎症。\n\n## 执行方案\n* **顺序**: 先吃蔬菜（纤维），再吃蛋白质，最后吃碳水。\n* **技巧**: 在高碳水餐前喝一杯加了 1 勺苹果醋的水。"
+  },
+  {
+    "id": "training_001",
+    "category": "Training",
+    "coverImageURL": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1000",
+    "title_en": "Zone 2 Cardio: The Longevity Engine",
+    "title_zh": "二区训练：长寿的引擎",
+    "summary_en": "Training at 60-70% max heart rate builds mitochondrial efficiency.",
+    "summary_zh": "在最大心率的 60-70% 强度训练，能构建线粒体效率。",
+    "content_en": "## The Science\nZone 2 training stimulates type 1 muscle fibers to consume lactate as fuel. This improves metabolic flexibility and is strongly correlated with longevity.\n\n## Protocol\n* **Feel**: You can hold a conversation, but the person on the phone would know you are exercising.\n* **Dose**: 180-200 mins per week total.",
+    "content_zh": "## 科学原理\n二区训练刺激 I 型肌纤维以乳酸为燃料。这能提高代谢灵活性，并与长寿密切相关。\n\n## 执行方案\n* **体感**: 你可以维持对话，但电话那头的人能听出你在运动。\n* **剂量**: 每周总计 180-200 分钟。"
+  },
+  {
+    "id": "training_002",
+    "category": "Training",
+    "coverImageURL": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=1000",
+    "title_en": "Grip Strength: A Biomarker for Life",
+    "title_zh": "握力：生命的生物标志物",
+    "summary_en": "Grip strength is one of the strongest predictors of all-cause mortality.",
+    "summary_zh": "握力是全因死亡率最强的预测指标之一。",
+    "content_en": "## The Science\nGrip strength isn't just about hands; it's a proxy for overall neuromuscular integrity and robustness. Weak grip correlates with frailty and faster aging.\n\n## Protocol\n* **Test**: Farmer's Carries (carry half bodyweight in each hand).\n* **Train**: Dead hangs from a pull-up bar for time (aim for 2 mins).",
+    "content_zh": "## 科学原理\n握力不仅关乎手部，它是整体神经肌肉完整性和强壮程度的代理指标。握力弱与虚弱和加速衰老相关。\n\n## 执行方案\n* **测试**: 农夫行走（双手各提半倍体重）。\n* **训练**: 单杠悬垂（目标时长 2 分钟）。"
+  },
+  {
+    "id": "training_003",
+    "category": "Training",
+    "coverImageURL": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1000",
+    "title_en": "Strength Training for Bone Density",
+    "title_zh": "力量训练与骨密度",
+    "summary_en": "Heavy lifting puts mechanical stress on bones, forcing them to thicken.",
+    "summary_zh": "大重量训练给骨骼施加机械压力，迫使其变厚变强。",
+    "content_en": "## The Science\nBone mineral density peaks in your 30s. Without resistance training, it declines, leading to osteopenia. Axial loading (squats, deadlifts) is essential.\n\n## Protocol\n* **Frequency**: 3-5x per week.\n* **Focus**: Compound movements (Squat, Hinge, Push, Pull) in the 3-6 rep range for strength.",
+    "content_zh": "## 科学原理\n骨密度在 30 多岁达到峰值。没有抗阻训练，它会下降，导致骨质减少。轴向负荷（深蹲、硬拉）至关重要。\n\n## 执行方案\n* **频率**: 每周 3-5 次。\n* **重点**: 复合动作（蹲、髋关节铰链、推、拉），每组 3-6 次以提升力量。"
+  },
+  {
+    "id": "recovery_001",
+    "category": "Recovery",
+    "coverImageURL": "https://images.unsplash.com/photo-1519823551278-64ac927acdbc?q=80&w=1000",
+    "title_en": "Cold Plunge: The Dopamine Spike",
+    "title_zh": "冷水浴：多巴胺的激增",
+    "summary_en": "Deliberate cold exposure increases dopamine by 250% for hours.",
+    "summary_zh": "有意的冷暴露能让多巴胺水平提升 250% 并持续数小时。",
+    "content_en": "## The Science\nCold shock triggers a massive release of norepinephrine (alertness) and dopamine (motivation). Unlike drugs, this dopamine rise is sustained and doesn't crash.\n\n## Protocol\n* **Temp**: Cold enough that you want to get out immediately.\n* **Time**: 11 mins total per week (e.g., 2-3 mins per session).",
+    "content_zh": "## 科学原理\n冷休克会触发去甲肾上腺素（警觉）和多巴胺（动力）的大量释放。与药物不同，这种多巴胺提升是持久的，且不会导致崩溃。\n\n## 执行方案\n* **温度**: 冷到你想立刻出来的程度。\n* **时长**: 每周总计 11 分钟（例如每次 2-3 分钟）。"
+  },
+  {
+    "id": "recovery_002",
+    "category": "Recovery",
+    "coverImageURL": "https://images.unsplash.com/photo-1544367563-12123d8965cd?q=80&w=1000",
+    "title_en": "NSDR: The Brain Reset Button",
+    "title_zh": "NSDR：大脑的重启按钮",
+    "summary_en": "Non-Sleep Deep Rest replenishes neurochemicals in 20 minutes.",
+    "summary_zh": "非睡眠深度休息能在 20 分钟内补充神经化学物质。",
+    "content_en": "## The Science\nNSDR (or Yoga Nidra) shifts the brain into theta/delta waves while awake. It replenishes dopamine in the striatum and reduces cortisol by up to 50%.\n\n## Protocol\n* **When**: Post-lunch dip or after intense learning.\n* **How**: Search 'Huberman NSDR' on YouTube, lie down, and listen for 10-20 mins.",
+    "content_zh": "## 科学原理\nNSDR（或瑜伽睡眠）让大脑在清醒时进入 Theta/Delta 波状态。它能补充纹状体中的多巴胺，并降低高达 50% 的皮质醇。\n\n## 执行方案\n* **时机**: 午饭后犯困时或高强度学习后。\n* **方法**: 搜索 'Huberman NSDR'，躺下听 10-20 分钟。"
+  },
+  {
+    "id": "recovery_003",
+    "category": "Recovery",
+    "coverImageURL": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=1000",
+    "title_en": "Sauna: Heat Shock for Health",
+    "title_zh": "桑拿：健康的热休克",
+    "summary_en": "Heat exposure releases heat shock proteins (HSPs) that repair damaged cells.",
+    "summary_zh": "热暴露会释放热休克蛋白 (HSPs)，修复受损细胞。",
+    "content_en": "## The Science\nSauna use mimics moderate exercise cardiovascualrly. It increases growth hormone release (up to 16x) and improves insulin sensitivity.\n\n## Protocol\n* **Temp**: 176-212°F (80-100°C).\n* **Dose**: 57 mins total per week (e.g., 3 sessions of 20 mins).",
+    "content_zh": "## 科学原理\n桑拿在心血管层面模拟了中等强度运动。它能大幅增加生长激素释放（最高 16 倍），并改善胰岛素敏感性。\n\n## 执行方案\n* **温度**: 80-100°C。\n* **剂量**: 每周总计 57 分钟（例如 3 次，每次 20 分钟）。"
+  },
+  {
+    "id": "mindset_001",
+    "category": "Mindset",
+    "coverImageURL": "https://images.unsplash.com/photo-1515847049296-a281d6401047?q=80&w=1000",
+    "title_en": "The Growth Mindset Mechanism",
+    "title_zh": "成长型思维的机制",
+    "summary_en": "Adding the word 'yet' changes your brain's response to failure.",
+    "summary_zh": "加上“还”这个字（yet），能改变大脑对失败的反应。",
+    "content_en": "## The Science\nCarol Dweck's research shows that praising *effort* over *talent* builds resilience. When you view failure as data rather than identity, the brain allocates more resources to problem-solving.\n\n## Protocol\n* **Reframing**: Instead of 'I can't do this', say 'I can't do this YET'.\n* **Focus**: Reward yourself for the *process* of struggle, not just the outcome.",
+    "content_zh": "## 科学原理\nCarol Dweck 的研究表明，赞美*努力*而非*天赋*能建立韧性。当你将失败视为数据而非身份时，大脑会调动更多资源来解决问题。\n\n## 执行方案\n* **重构**: 别说“我做不到”，要说“我*还*没做到”。\n* **重点**: 奖励自己挣扎奋斗的*过程*，而不仅仅是结果。"
+  },
+  {
+    "id": "mindset_002",
+    "category": "Mindset",
+    "coverImageURL": "https://images.unsplash.com/photo-1526716173434-a1b560f2065d?q=80&w=1000",
+    "title_en": "Dopamine Management",
+    "title_zh": "多巴胺管理艺术",
+    "summary_en": "Cheap dopamine (scrolling) lowers your baseline motivation.",
+    "summary_zh": "廉价多巴胺（如刷屏）会降低你的基线动力。",
+    "content_en": "## The Science\nDopamine works on a see-saw. High peaks (from drugs, social media) lead to deep troughs (pain/boredom). Chronic overstimulation lowers your baseline, making hard work feel impossible.\n\n## Protocol\n* **The Gap**: Wait 10 mins before giving in to an urge.\n* **Randomness**: Flip a coin to decide if you get a reward. Random intermittent reinforcement keeps dopamine sensitive.",
+    "content_zh": "## 科学原理\n多巴胺像跷跷板一样工作。高峰值（来自药物、社交媒体）会导致深低谷（痛苦/无聊）。长期的过度刺激会降低你的基线，让努力工作变得不可能。\n\n## 执行方案\n* **间隙**: 在屈服于欲望前等待 10 分钟。\n* **随机性**: 扔硬币决定是否奖励自己。随机间歇性强化能保持多巴胺敏感度。"
+  },
+  {
+    "id": "mindset_003",
+    "category": "Mindset",
+    "coverImageURL": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1000",
+    "title_en": "Mindfulness & The DMN",
+    "title_zh": "正念与默认模式网络",
+    "summary_en": "Meditation quiets the Default Mode Network (DMN), reducing wandering thoughts.",
+    "summary_zh": "冥想能让默认模式网络 (DMN) 安静下来，减少杂念。",
+    "content_en": "## The Science\nThe DMN is active when your mind wanders (often to negative thoughts). 13 minutes of daily meditation has been shown to reduce DMN activity and improve focus.\n\n## Protocol\n* **Dose**: 13 minutes daily.\n* **Action**: Focus on the breath. When mind wanders, gently bring it back. That 'return' is the rep.",
+    "content_zh": "## 科学原理\n当你走神（通常是消极想法）时，DMN 会活跃。每天 13 分钟的冥想被证明能降低 DMN 活性并提升专注力。\n\n## 执行方案\n* **剂量**: 每天 13 分钟。\n* **动作**: 专注于呼吸。当思绪飘走时，温柔地把它拉回来。那个“拉回来”的动作就是一次训练。"
+  },
+  {
+    "id": "supplements_001",
+    "category": "Supplements",
+    "coverImageURL": "https://images.unsplash.com/photo-1593095948071-874c1f8d208e?q=80&w=1000",
+    "title_en": "Creatine: Fuel for Brain & Body",
+    "title_zh": "肌酸：大脑与身体的燃料",
+    "summary_en": "Creatine isn't just for muscle; it improves cognitive function and memory.",
+    "summary_zh": "肌酸不仅对肌肉有效，它还能改善认知功能和记忆力。",
+    "content_en": "## The Science\nCreatine helps recycle ATP (energy) in the brain. Studies show significant improvements in working memory and intelligence tests, especially for vegetarians or sleep-deprived individuals.\n\n## Protocol\n* **Dose**: 5g Creatine Monohydrate daily.\n* **Timing**: Anytime works (consistency matters most).",
+    "content_zh": "## 科学原理\n肌酸有助于大脑中 ATP（能量）的循环。研究表明，它能显著提升工作记忆和智力测试表现，尤其是对素食者或睡眠不足的人。\n\n## 执行方案\n* **剂量**: 每天 5g 一水肌酸。\n* **时机**: 任何时间皆可（坚持最重要）。"
+  },
+  {
+    "id": "supplements_002",
+    "category": "Supplements",
+    "coverImageURL": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?q=80&w=1000",
+    "title_en": "Magnesium Threonate for Sleep",
+    "title_zh": "苏糖酸镁与睡眠",
+    "summary_en": "The only form of magnesium that effectively crosses the blood-brain barrier.",
+    "summary_zh": "唯一能有效穿过血脑屏障的镁形式。",
+    "content_en": "## The Science\nMagnesium supports the parasympathetic nervous system (rest & digest). L-Threonate specifically increases brain magnesium levels, improving sleep quality and synaptic plasticity.\n\n## Protocol\n* **Dose**: 145mg of elemental magnesium (often 2000mg of Mag-Threonate).\n* **Timing**: 30-60 mins before sleep.",
+    "content_zh": "## 科学原理\n镁支持副交感神经系统（休息与消化）。L-苏糖酸镁特异性地增加脑内镁水平，改善睡眠质量和突触可塑性。\n\n## 执行方案\n* **剂量**: 145mg 元素镁（通常对应 2000mg 苏糖酸镁）。\n* **时机**: 睡前 30-60 分钟。"
+  },
+  {
+    "id": "supplements_003",
+    "category": "Supplements",
+    "coverImageURL": "https://images.unsplash.com/photo-1610725663727-08794d0c9b0e?q=80&w=1000",
+    "title_en": "Omega-3s: The Brain Builder",
+    "title_zh": "Omega-3：大脑构建者",
+    "summary_en": "EPA and DHA are critical for cell membrane fluidity and reducing inflammation.",
+    "summary_zh": "EPA 和 DHA 对细胞膜流动性和减少炎症至关重要。",
+    "content_en": "## The Science\nHigh doses of EPA (>2g) have been shown to be as effective as some antidepressants for mood regulation. They reduce neuroinflammation.\n\n## Protocol\n* **Dose**: Aim for 2-3g of EPA (not just total fish oil) daily.\n* **Source**: High-quality fish oil liquid or capsules.",
+    "content_zh": "## 科学原理\n高剂量的 EPA (>2g) 被证明在调节情绪方面与某些抗抑郁药一样有效。它们能减少神经炎症。\n\n## 执行方案\n* **剂量**: 每天目标摄入 2-3g EPA（不仅仅是鱼油总量）。\n* **来源**: 高质量鱼油液或胶囊。"
   }
 ]

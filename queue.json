@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2026-02-01",
+    "title": "早晨阳光：你的生物钟校准器",
+    "category": "Sleep",
+    "summary": "醒来 1 小时内接触阳光，是调节睡眠质量的最强效工具。",
+    "contentMarkdown": "## The Science\n斯坦福神经科学家 Andrew Huberman 指出，早晨的阳光进入眼睛会触发皮质醇的健康峰值（Cortisol Pulse）。这个峰值不仅能让你白天更清醒，还会启动一个“倒计时”，确保你在约 16 小时后分泌褪黑素，从而顺利入睡。\n\n## Protocol\n* **时间**：醒来后 30-60 分钟内。\n* **时长**：晴天 5-10 分钟，阴天 20 分钟。\n* **注意**：不要隔着玻璃，玻璃会过滤掉关键的蓝光光谱。如果不安全，请开窗。",
+    "coverImageURL": "https://images.unsplash.com/photo-1506224477000-0b2a4baf0f3d?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "2026-02-02",
+    "title": "NSDR：20分钟抵过3小时睡眠？",
+    "category": "Recovery",
+    "summary": "非睡眠深度休息 (NSDR) 能快速补充多巴胺并加速神经可塑性。",
+    "contentMarkdown": "## The Science\nNSDR (Non-Sleep Deep Rest) 是 Google CEO 和许多硅谷高管使用的高效恢复手段。它通过特定的呼吸和身体扫描，让大脑进入类似睡眠的 Delta 波状态，但你仍保持清醒。这能显著降低皮质醇，并补充神经递质（特别是多巴胺），提升后续的学习效率。\n\n## Protocol\n* **何时做**：午后犯困时，或学习/工作完一个高强度时段后。\n* **怎么做**：戴上耳机，搜索 \"Huberman NSDR\" 或 \"Yoga Nidra\" (瑜伽睡眠)，跟随引导放松 10-20 分钟。",
+    "coverImageURL": "https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "2026-02-03",
+    "title": "二区训练 (Zone 2)：长寿的引擎",
+    "category": "Training",
+    "summary": "彼得·阿提亚博士力荐：这是提升线粒体功能的最佳训练方式。",
+    "contentMarkdown": "## The Science\n二区训练是指最大心率的 60-70%，或者让你能维持对话但略感吃力的强度。这种强度能最大化脂肪氧化率，并刺激线粒体产生。线粒体功能的下降是衰老和代谢疾病的核心原因，而 Zone 2 是逆转这一过程的“神药”。\n\n## Protocol\n* **频率**：每周 3-4 次。\n* **时长**：每次至少 45 分钟（线粒体适应通常在 45 分钟后才开始显著发生）。\n* **感觉**：你应该能用鼻子呼吸，或者能断断续续地打电话，但不想一直说话。",
+    "coverImageURL": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "2026-02-04",
+    "title": "肌酸：不只是健身补剂，更是大脑燃料",
+    "category": "Nutrition",
+    "summary": "研究表明肌酸能显著缓解睡眠剥夺后的认知疲劳。",
+    "contentMarkdown": "## The Science\n肌酸 (Creatine) 不仅能给肌肉供能，也能穿过血脑屏障给大脑供能。大脑虽然只占体重的 2%，却消耗了 20% 的能量。多项研究表明，补充肌酸能提升工作记忆、智力测试表现，尤其是在睡眠不足或高脑力负荷的状态下。\n\n## Protocol\n* **剂量**：每天 5 克一水肌酸 (Creatine Monohydrate)。\n* **时机**：任意时间，关键是坚持。\n* **误区**：不会导致脱发（那是一个被误读的早期研究），也不会伤肾（对健康人而言）。",
+    "coverImageURL": "https://images.unsplash.com/photo-1593095948071-874c1f8d208e?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "2026-02-05",
+    "title": "体温与睡眠：睡前为何要洗热水澡？",
+    "category": "Sleep",
+    "summary": "核心体温需要下降 1°C 才能启动深度睡眠机制。",
+    "contentMarkdown": "## The Science\n睡眠专家 Matthew Walker 解释，这是一个反直觉的现象：睡前洗热水澡/泡脚其实是为了“降温”。热水会让皮肤血管扩张（Vasodilation），把血液从身体核心引流到体表散热。这会导致核心体温迅速下降，从而向大脑发送强烈的“入睡信号”。\n\n## Protocol\n* **操作**：睡前 1-2 小时洗个热水澡，或泡脚 10 分钟。\n* **环境**：卧室温度保持在 18-20°C (65-68°F)，凉爽的房间有助于维持深度睡眠。",
+    "coverImageURL": "https://images.unsplash.com/photo-1516669966557-4171d99616d6?q=80&w=1000&auto=format&fit=crop"
+  }
+]

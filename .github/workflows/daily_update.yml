@@ -2,9 +2,8 @@ name: Daily Content Update
 
 on:
   schedule:
-    # 每天北京时间早上 8:00 (UTC 时间 0:00) 运行
+    # 每天北京时间早上 8:00 (UTC 0:00)
     - cron: '0 0 * * *'
-  # 允许你手动点击按钮触发 (方便测试)
   workflow_dispatch:
 
 permissions:
@@ -15,21 +14,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code (下载代码)
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Python (安装 Python)
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Run Publish Script (运行搬运工)
+      - name: Run Publish Script
         run: python publish.py
 
-      - name: Commit and Push changes (提交更改)
+      - name: Commit and Push changes
         run: |
           git config --global user.name 'LifeOS Bot'
           git config --global user.email 'bot@lifeos.app'
-          git add daily.json queue.json
-          git commit -m "Auto-publish daily content" || echo "No changes to commit"
+          # 👇 重点在这里：我加上了 feed.json
+          git add feed.json queue.json
+          # 为了防止第一次没有 feed.json 报错，加个保护逻辑
+          git diff-index --quiet HEAD || git commit -m "Auto-publish daily content"
           git push

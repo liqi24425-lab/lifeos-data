@@ -1,16 +1,5 @@
 [
   {
-    "id": "sleep_002",
-    "category": "Sleep",
-    "coverImageURL": "https://images.unsplash.com/photo-1515446001037-c1d09e5361ee?q=80&w=1000",
-    "title_en": "The Caffeine Curfew",
-    "title_zh": "咖啡因的“宵禁”时间",
-    "summary_en": "Caffeine has a quarter-life of 12 hours. Drinking it late destroys deep sleep.",
-    "summary_zh": "咖啡因的四分之一衰变期长达 12 小时，午后饮用会摧毁深度睡眠。",
-    "content_en": "## The Science\nCaffeine blocks adenosine receptors (the chemical that makes you sleepy). Even if you can fall asleep, caffeine in your system prevents you from entering restorative deep sleep.\n\n## Protocol\n* **Cutoff**: Stop caffeine intake 8-10 hours before bed (e.g., 2 PM).\n* **Morning**: Delay first cup by 90 mins to allow natural cortisol to clear adenosine.",
-    "content_zh": "## 科学原理\n咖啡因会阻断腺苷受体（让你感到困倦的化学物质）。即使你能睡着，体内的咖啡因也会阻止你进入修复性的深度睡眠。\n\n## 执行方案\n* **截止时间**: 睡前 8-10 小时停止摄入（例如下午 2 点）。\n* **早晨**: 起床后推迟 90 分钟再喝第一杯，让皮质醇自然清除腺苷。"
-  },
-  {
     "id": "sleep_003",
     "category": "Sleep",
     "coverImageURL": "https://images.unsplash.com/photo-1541480601022-2308c0f9c4b0?q=80&w=1000",

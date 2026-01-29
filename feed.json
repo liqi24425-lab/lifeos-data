@@ -1,5 +1,17 @@
 [
   {
+    "id": "recovery_001",
+    "category": "Recovery",
+    "coverImageURL": "https://images.unsplash.com/photo-1519823551278-64ac927acdbc?q=80&w=1000",
+    "title_en": "Cold Plunge: The Dopamine Spike",
+    "title_zh": "冷水浴：多巴胺的激增",
+    "summary_en": "Deliberate cold exposure increases dopamine by 250% for hours.",
+    "summary_zh": "有意的冷暴露能让多巴胺水平提升 250% 并持续数小时。",
+    "content_en": "## The Science\nCold shock triggers a massive release of norepinephrine (alertness) and dopamine (motivation). Unlike drugs, this dopamine rise is sustained and doesn't crash.\n\n## Protocol\n* **Temp**: Cold enough that you want to get out immediately.\n* **Time**: 11 mins total per week (e.g., 2-3 mins per session).",
+    "content_zh": "## 科学原理\n冷休克会触发去甲肾上腺素（警觉）和多巴胺（动力）的大量释放。与药物不同，这种多巴胺提升是持久的，且不会导致崩溃。\n\n## 执行方案\n* **温度**: 冷到你想立刻出来的程度。\n* **时长**: 每周总计 11 分钟（例如每次 2-3 分钟）。",
+    "publishDate": "2026-01-29"
+  },
+  {
     "id": "sleep_002",
     "category": "Sleep",
     "coverImageURL": "https://images.unsplash.com/photo-1515446001037-c1d09e5361ee?q=80&w=1000",

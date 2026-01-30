@@ -1,5 +1,17 @@
 [
   {
+    "id": "mindset_001",
+    "category": "Mindset",
+    "coverImageURL": "https://images.unsplash.com/photo-1515847049296-a281d6401047?q=80&w=1000",
+    "title_en": "The Growth Mindset Mechanism",
+    "title_zh": "成长型思维的机制",
+    "summary_en": "Adding the word 'yet' changes your brain's response to failure.",
+    "summary_zh": "加上“还”这个字（yet），能改变大脑对失败的反应。",
+    "content_en": "## The Science\nCarol Dweck's research shows that praising *effort* over *talent* builds resilience. When you view failure as data rather than identity, the brain allocates more resources to problem-solving.\n\n## Protocol\n* **Reframing**: Instead of 'I can't do this', say 'I can't do this YET'.\n* **Focus**: Reward yourself for the *process* of struggle, not just the outcome.",
+    "content_zh": "## 科学原理\nCarol Dweck 的研究表明，赞美*努力*而非*天赋*能建立韧性。当你将失败视为数据而非身份时，大脑会调动更多资源来解决问题。\n\n## 执行方案\n* **重构**: 别说“我做不到”，要说“我*还*没做到”。\n* **重点**: 奖励自己挣扎奋斗的*过程*，而不仅仅是结果。",
+    "publishDate": "2026-01-30"
+  },
+  {
     "id": "recovery_001",
     "category": "Recovery",
     "coverImageURL": "https://images.unsplash.com/photo-1519823551278-64ac927acdbc?q=80&w=1000",

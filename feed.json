@@ -1,5 +1,17 @@
 [
   {
+    "id": "training_001",
+    "category": "Training",
+    "coverImageURL": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1000",
+    "title_en": "Zone 2 Cardio: The Longevity Engine",
+    "title_zh": "二区训练：长寿的引擎",
+    "summary_en": "Training at 60-70% max heart rate builds mitochondrial efficiency.",
+    "summary_zh": "在最大心率的 60-70% 强度训练，能构建线粒体效率。",
+    "content_en": "## The Science\nZone 2 training stimulates type 1 muscle fibers to consume lactate as fuel. This improves metabolic flexibility and is strongly correlated with longevity.\n\n## Protocol\n* **Feel**: You can hold a conversation, but the person on the phone would know you are exercising.\n* **Dose**: 180-200 mins per week total.",
+    "content_zh": "## 科学原理\n二区训练刺激 I 型肌纤维以乳酸为燃料。这能提高代谢灵活性，并与长寿密切相关。\n\n## 执行方案\n* **体感**: 你可以维持对话，但电话那头的人能听出你在运动。\n* **剂量**: 每周总计 180-200 分钟。",
+    "publishDate": "2026-02-02"
+  },
+  {
     "id": "supplements_001",
     "category": "Supplements",
     "coverImageURL": "https://images.unsplash.com/photo-1593095948071-874c1f8d208e?q=80&w=1000",

@@ -1,5 +1,17 @@
 [
   {
+    "id": "sleep_003",
+    "category": "Sleep",
+    "coverImageURL": "https://images.unsplash.com/photo-1541480601022-2308c0f9c4b0?q=80&w=1000",
+    "title_en": "Temperature Drop for Deep Sleep",
+    "title_zh": "体温下降与深度睡眠",
+    "summary_en": "Your core body temperature must drop by 1-3°F to initiate sleep.",
+    "summary_zh": "核心体温需要下降 1-2°C 才能启动深度睡眠机制。",
+    "content_en": "## The Science\nCooling the body signals the brain to release melatonin. Paradoxically, a hot shower triggers cooling via vasodilation (heat escaping through skin).\n\n## Protocol\n* **Room**: Keep bedroom cool (65-68°F / 18-20°C).\n* **Hack**: Take a hot shower or bath 1 hour before bed to trigger a rebound body temp drop.",
+    "content_zh": "## 科学原理\n身体降温是向大脑发送分泌褪黑素的信号。反直觉的是，热水澡通过血管扩张（热量通过皮肤散发）触发身体核心降温。\n\n## 执行方案\n* **室温**: 保持卧室凉爽 (18-20°C)。\n* **技巧**: 睡前 1 小时洗个热水澡，利用身体的“反弹降温”效应助眠。",
+    "publishDate": "2026-02-04"
+  },
+  {
     "id": "nutrition_001",
     "category": "Nutrition",
     "coverImageURL": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=1000",

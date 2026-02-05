@@ -1,5 +1,17 @@
 [
   {
+    "id": "recovery_002",
+    "category": "Recovery",
+    "coverImageURL": "https://images.unsplash.com/photo-1544367563-12123d8965cd?q=80&w=1000",
+    "title_en": "NSDR: The Brain Reset Button",
+    "title_zh": "NSDR：大脑的重启按钮",
+    "summary_en": "Non-Sleep Deep Rest replenishes neurochemicals in 20 minutes.",
+    "summary_zh": "非睡眠深度休息能在 20 分钟内补充神经化学物质。",
+    "content_en": "## The Science\nNSDR (or Yoga Nidra) shifts the brain into theta/delta waves while awake. It replenishes dopamine in the striatum and reduces cortisol by up to 50%.\n\n## Protocol\n* **When**: Post-lunch dip or after intense learning.\n* **How**: Search 'Huberman NSDR' on YouTube, lie down, and listen for 10-20 mins.",
+    "content_zh": "## 科学原理\nNSDR（或瑜伽睡眠）让大脑在清醒时进入 Theta/Delta 波状态。它能补充纹状体中的多巴胺，并降低高达 50% 的皮质醇。\n\n## 执行方案\n* **时机**: 午饭后犯困时或高强度学习后。\n* **方法**: 搜索 'Huberman NSDR'，躺下听 10-20 分钟。",
+    "publishDate": "2026-02-05"
+  },
+  {
     "id": "sleep_003",
     "category": "Sleep",
     "coverImageURL": "https://images.unsplash.com/photo-1541480601022-2308c0f9c4b0?q=80&w=1000",

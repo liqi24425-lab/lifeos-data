@@ -1,5 +1,17 @@
 [
   {
+    "id": "mindset_002",
+    "category": "Mindset",
+    "coverImageURL": "https://images.unsplash.com/photo-1526716173434-a1b560f2065d?q=80&w=1000",
+    "title_en": "Dopamine Management",
+    "title_zh": "多巴胺管理艺术",
+    "summary_en": "Cheap dopamine (scrolling) lowers your baseline motivation.",
+    "summary_zh": "廉价多巴胺（如刷屏）会降低你的基线动力。",
+    "content_en": "## The Science\nDopamine works on a see-saw. High peaks (from drugs, social media) lead to deep troughs (pain/boredom). Chronic overstimulation lowers your baseline, making hard work feel impossible.\n\n## Protocol\n* **The Gap**: Wait 10 mins before giving in to an urge.\n* **Randomness**: Flip a coin to decide if you get a reward. Random intermittent reinforcement keeps dopamine sensitive.",
+    "content_zh": "## 科学原理\n多巴胺像跷跷板一样工作。高峰值（来自药物、社交媒体）会导致深低谷（痛苦/无聊）。长期的过度刺激会降低你的基线，让努力工作变得不可能。\n\n## 执行方案\n* **间隙**: 在屈服于欲望前等待 10 分钟。\n* **随机性**: 扔硬币决定是否奖励自己。随机间歇性强化能保持多巴胺敏感度。",
+    "publishDate": "2026-02-06"
+  },
+  {
     "id": "recovery_002",
     "category": "Recovery",
     "coverImageURL": "https://images.unsplash.com/photo-1544367563-12123d8965cd?q=80&w=1000",

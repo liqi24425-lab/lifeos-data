@@ -1,5 +1,17 @@
 [
   {
+    "id": "supplements_002",
+    "category": "Supplements",
+    "coverImageURL": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?q=80&w=1000",
+    "title_en": "Magnesium Threonate for Sleep",
+    "title_zh": "苏糖酸镁与睡眠",
+    "summary_en": "The only form of magnesium that effectively crosses the blood-brain barrier.",
+    "summary_zh": "唯一能有效穿过血脑屏障的镁形式。",
+    "content_en": "## The Science\nMagnesium supports the parasympathetic nervous system (rest & digest). L-Threonate specifically increases brain magnesium levels, improving sleep quality and synaptic plasticity.\n\n## Protocol\n* **Dose**: 145mg of elemental magnesium (often 2000mg of Mag-Threonate).\n* **Timing**: 30-60 mins before sleep.",
+    "content_zh": "## 科学原理\n镁支持副交感神经系统（休息与消化）。L-苏糖酸镁特异性地增加脑内镁水平，改善睡眠质量和突触可塑性。\n\n## 执行方案\n* **剂量**: 145mg 元素镁（通常对应 2000mg 苏糖酸镁）。\n* **时机**: 睡前 30-60 分钟。",
+    "publishDate": "2026-02-07"
+  },
+  {
     "id": "mindset_002",
     "category": "Mindset",
     "coverImageURL": "https://images.unsplash.com/photo-1526716173434-a1b560f2065d?q=80&w=1000",

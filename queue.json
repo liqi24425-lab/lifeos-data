@@ -1,16 +1,5 @@
 [
   {
-    "id": "nutrition_002",
-    "category": "Nutrition",
-    "coverImageURL": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=1000",
-    "title_en": "Intermittent Fasting & Autophagy",
-    "title_zh": "间歇性禁食与细胞自噬",
-    "summary_en": "Giving your gut a break allows cells to clean out damaged components.",
-    "summary_zh": "给肠道放假，让细胞有时间清理受损的组件。",
-    "content_en": "## The Science\nAutophagy is the body's 'recycling program.' It kicks in when insulin is low for extended periods, clearing out misfolded proteins and damaged organelles.\n\n## Protocol\n* **16:8**: Fast for 16 hours, eat within 8 hours.\n* **Easy Mode**: Stop eating 3 hours before bed and delay breakfast by 1 hour.",
-    "content_zh": "## 科学原理\n细胞自噬是身体的“回收程序”。当胰岛素长期处于低水平时，它会启动，清理错误折叠的蛋白质和受损的细胞器。\n\n## 执行方案\n* **16:8**: 禁食 16 小时，在 8 小时窗口内进食。\n* **简单模式**: 睡前 3 小时停止进食，并推迟 1 小时吃早餐。"
-  },
-  {
     "id": "nutrition_003",
     "category": "Nutrition",
     "coverImageURL": "https://images.unsplash.com/photo-1546549060-e44b94e339f4?q=80&w=1000",

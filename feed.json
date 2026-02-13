@@ -1,5 +1,17 @@
 [
   {
+    "id": "mindset_003",
+    "category": "Mindset",
+    "coverImageURL": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1000",
+    "title_en": "Mindfulness & The DMN",
+    "title_zh": "正念与默认模式网络",
+    "summary_en": "Meditation quiets the Default Mode Network (DMN), reducing wandering thoughts.",
+    "summary_zh": "冥想能让默认模式网络 (DMN) 安静下来，减少杂念。",
+    "content_en": "## The Science\nThe DMN is active when your mind wanders (often to negative thoughts). 13 minutes of daily meditation has been shown to reduce DMN activity and improve focus.\n\n## Protocol\n* **Dose**: 13 minutes daily.\n* **Action**: Focus on the breath. When mind wanders, gently bring it back. That 'return' is the rep.",
+    "content_zh": "## 科学原理\n当你走神（通常是消极想法）时，DMN 会活跃。每天 13 分钟的冥想被证明能降低 DMN 活性并提升专注力。\n\n## 执行方案\n* **剂量**: 每天 13 分钟。\n* **动作**: 专注于呼吸。当思绪飘走时，温柔地把它拉回来。那个“拉回来”的动作就是一次训练。",
+    "publishDate": "2026-02-13"
+  },
+  {
     "id": "recovery_003",
     "category": "Recovery",
     "coverImageURL": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=1000",
